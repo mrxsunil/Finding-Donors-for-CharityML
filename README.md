@@ -2,6 +2,9 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### About the Project
+In this project, I have applied supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. I have first explore the data to learn how the census data is recorded. Next, applied a series of transformations and preprocessing techniques to manipulate the data into a workable format. Then evaluated several supervised learners of your choice on the data, and considered which is best suited for the solution. Afterwards, optimized the selected model and present it as your solution to CharityML. 
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
